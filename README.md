@@ -4,3 +4,5 @@ Task 3- Python Oops.
 Task 4- Python Regex.
 Task 5- Python Numpy and Pandas.
 Task 6- Matplotlib.
+iris_EDA
+Logistic Regression
